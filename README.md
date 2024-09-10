@@ -107,8 +107,9 @@ exit(0);}
 ## OUTPUT
 
 
+![image](https://github.com/user-attachments/assets/4341a67d-a728-4aca-9a3a-6635c449afcc)
 
-![image](https://github.com/user-attachments/assets/8d0e824b-8a8d-489c-97ec-2949efe83785)
+
 
 
 
