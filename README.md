@@ -59,7 +59,7 @@ int main(void)
 
 
 
-##OUTPUT
+## OUTPUT
 
 
 ![image](https://github.com/user-attachments/assets/1f6b43ce-cb61-4747-b4bd-4478dacc78a9)
@@ -104,7 +104,7 @@ exit(0);}
 
 
 
-##OUTPUT
+## OUTPUT
 
 
 
@@ -152,12 +152,13 @@ int main()
 
 
 
-##OUTPUT
+## OUTPUT
 
 
 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/c4cd234c-bb76-40ca-8151-611202da75a4)
+
 
 
 
